@@ -92,3 +92,20 @@ button:hover{
 		width: 35%;
 	}
 }
+
+@media screen and (min-width:501px) and (max-width: 1090px){
+	button{
+		letter-spacing: normal;
+		font-size: 0.8em;
+	}
+	#colorDisplay{
+		font-size: 130%;
+	}
+	.container{
+		width:100%;
+		margin:75px auto;
+	}
+	#message{
+		width: 35%;
+	}
+}
